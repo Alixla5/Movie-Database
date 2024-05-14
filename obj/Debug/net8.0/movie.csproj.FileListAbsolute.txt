@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\movie\movie\bin\Debug\net8.0\movie.exe
+C:\Users\Ali\source\repos\movie\movie\bin\Debug\net8.0\movie.deps.json
+C:\Users\Ali\source\repos\movie\movie\bin\Debug\net8.0\movie.runtimeconfig.json
+C:\Users\Ali\source\repos\movie\movie\bin\Debug\net8.0\movie.dll
+C:\Users\Ali\source\repos\movie\movie\bin\Debug\net8.0\movie.pdb
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.AssemblyInfo.cs
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.dll
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\refint\movie.dll
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.pdb
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\movie.genruntimeconfig.cache
+C:\Users\Ali\source\repos\movie\movie\obj\Debug\net8.0\ref\movie.dll
